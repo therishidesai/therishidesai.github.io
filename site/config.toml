@@ -1,0 +1,57 @@
+baseurl = "apache8080.github.io"
+title = "Rishi Desai"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Rishi Desai"
+    description = "Rishi Desai's Personal Site"
+    keywords = "engineer, robots, developer,personal"
+    info = "Software Engineer and Robotocist"
+    avatarurl = "img/rishi.jpg"
+    footercontent = "Made in California by Rishi Desai"
+
+    hideCredits = false
+    hideCopyright = false
+
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/apache8080/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/apache8585/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/rishidesai1/"
+[[params.social]]
+    name = "Resume"
+    weight = 4
+    url = "pdfs/resume.pdf"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "https://medium.com/@desai.rishi1"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

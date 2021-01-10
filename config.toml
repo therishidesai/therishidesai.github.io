@@ -1,0 +1,111 @@
+baseURL = "http://therishidesai.github.io"
+title = "rishidesai"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+[params]
+    author = "Rishi Desai"
+    description = "Rishi Desai's personal website"
+    keywords = "blog,developer,personal"
+    info = "Software Engineer and Roboticist"
+    avatarURL = "images/avatar.jpg"
+    footerContent = "Made in California by Rishi Desai."
+
+    dateFormat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2021
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/therishidesai/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 3
+    url = "https://twitter.com/therishidesai/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/rishidesai1/"
+[[params.social]]
+    name = "Resume"
+    icon = "fa fa-file"
+    weight = 5
+    url = "https://therishidesai.github.io/pdfs/resume.pdf"
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            # [[languages.en.menu.main]]
+            # name = "Blog"
+            # weight = 2
+            # url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "Research"
+            weight = 4
+            url = "research/"
+
+            [[languages.en.menu.main]]
+            name = "Organizations"
+            weight = 5
+            url = "organizations/"

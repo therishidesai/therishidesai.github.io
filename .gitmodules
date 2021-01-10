@@ -1,7 +1,3 @@
 [submodule "hugo-coder"]
 	path = hugo-coder
 	url = git@github.com:luizdepra/hugo-coder.git
-[submodule "public"]
-	path = public
-	url = https://github.com/therishidesai/therishidesai.github.io.git
-	branch = master

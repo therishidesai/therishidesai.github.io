@@ -28,6 +28,7 @@ twitter_username: therishidesai
 github_username:  therishidesai
 
 # Build settings
+remote_theme: riggraz/no-style-please
 theme: no-style-please
 plugins:
   - jekyll-feed

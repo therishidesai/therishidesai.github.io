@@ -1,0 +1,25 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: me
+    entries:
+      - title: "Roboticist, Hacker, Software Engineer at <a href='https://anduril.com'>Anduril Industries</a>, <a href='https://cs.illinois.edu'>CS@Illinois</a>"
+      - title: Github
+        url: https://github.com/therishidesai
+      - title: Twitter
+        url: https://twitter.com/therishidesai
+      - title: Linkedin
+        url: https://linkedin.com/in/rishidesai1
+      - title: Resume
+        url: resume.pdf
+ 
+  - title: Projects
+    url: projects
+
+  - title: Research
+    url: research
+
+  - title: Organizations
+    url: orgs
+  

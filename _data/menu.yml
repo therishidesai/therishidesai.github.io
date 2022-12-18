@@ -4,11 +4,13 @@
 entries:
   - title: me
     entries:
-      - title: "Roboticist, Hacker, Software Engineer at <a href='https://anduril.com'>Anduril Industries</a>, <a href='https://cs.illinois.edu'>CS@Illinois</a>"
+      - title: "Hacker, <a href='https://cs.illinois.edu'>CS@Illinois</a>, prev @ <a href='https://anduril.com'>Anduril Industries</a>, Software Engineer @ <a href='https://saronic.com'>Saronic</a>"
       - title: Github
         url: https://github.com/therishidesai
       - title: Twitter
         url: https://twitter.com/therishidesai
+      - title: Mastodon
+        url: https://cryptodon.lol/@apache8080
       - title: Linkedin
         url: https://linkedin.com/in/rishidesai1
       - title: Resume

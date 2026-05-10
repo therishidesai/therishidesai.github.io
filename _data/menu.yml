@@ -4,24 +4,9 @@
 entries:
   - title: me
     entries:
-      - title: "Hacker, <a href='https://cs.illinois.edu'>CS@Illinois</a>, prev @ <a href='https://anduril.com'>Anduril Industries</a>, Software Engineer @ <a href='https://saronic.com'>Saronic</a>"
+      - title: "Engineer, <a href='https://cs.illinois.edu'>CS@Illinois</a>, prev @ <a href='https://anduril.com'>Anduril Industries</a>, Software Engineer @ <a href='https://saronic.com'>Saronic</a>"
       - title: Github
         url: https://github.com/therishidesai
       - title: Twitter
         url: https://twitter.com/therishidesai
-      - title: Mastodon
-        url: https://cryptodon.lol/@apache8080
-      - title: Linkedin
-        url: https://linkedin.com/in/rishidesai1
-      - title: Resume
-        url: resume.pdf
- 
-  - title: Projects
-    url: projects
-
-  - title: Research
-    url: research
-
-  - title: Organizations
-    url: orgs
   

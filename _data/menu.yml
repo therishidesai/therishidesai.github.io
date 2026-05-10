@@ -4,9 +4,9 @@
 entries:
   - title: me
     entries:
-      - title: "Engineer, <a href='https://cs.illinois.edu'>CS@Illinois</a>, prev @ <a href='https://anduril.com'>Anduril Industries</a>, Software Engineer @ <a href='https://saronic.com'>Saronic</a>"
-      - title: Github
+      - title: "<a href='https://cs.illinois.edu'>cs@illinois</a>, prev @ <a href='https://anduril.com'>Anduril Industries</a>, sw eng @ <a href='https://saronic.com'>Saronic</a>"
+      - title: github
         url: https://github.com/therishidesai
-      - title: Twitter
+      - title: twitter
         url: https://twitter.com/therishidesai
   
